@@ -41,7 +41,7 @@ Visualized sales funnel, lead conversion, and revenue using Power BI and DAX.
 ---
 
 ### Global Revenue Dashboard
-![Revenue Dashboard](revenue_dashboard.png)
+![Revenue Dashboard](Excel_Project.png)
 Designed interactive dashboards for region-wise revenue insights and trend analysis.  
 [🔗 View on LinkedIn](https://www.linkedin.com/in/muhammed-faseen-kayakkal-58aa67220/details/projects/1747268125354/single-media-viewer/)
 
