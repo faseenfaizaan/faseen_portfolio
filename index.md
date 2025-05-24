@@ -27,7 +27,7 @@ Oct 2022 – Oct 2024
 ## 📊 Featured Projects
 
 ### HR Analytics Dashboard
-![HR Dashboard](hr_dashboard.png)
+![HR Dashboard](CRM-LATEST-1.png)
 Analyzed employee attrition, demographics, and performance using Power BI and SQL.  
 [🔗 View on LinkedIn](https://www.linkedin.com/posts/muhammed-faseen-kayakkal-58aa67220_powerbi-sql-hranalytics-activity-7320416205645787136-lTAV)
 
