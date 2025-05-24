@@ -34,7 +34,7 @@ Analyzed employee attrition, demographics, and performance using Power BI and SQ
 ---
 
 ### CRM Sales Dashboard
-![CRM Dashboard](crm_dashboard.png)
+![CRM Dashboard](Blinkit_Dashboard.jpg)
 Visualized sales funnel, lead conversion, and revenue using Power BI and DAX.  
 [🔗 View on LinkedIn](https://www.linkedin.com/posts/muhammed-faseen-kayakkal-58aa67220_powerbi-retailanalytics-datavisualization-activity-7328592399415283712-a_4J)
 
