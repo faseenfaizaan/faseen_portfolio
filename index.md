@@ -24,6 +24,13 @@ Oct 2022 – Oct 2024
 
 ---
 
+🏅 Certifications
+- Microsoft Power BI Data Analyst Professional
+- SQL: Beginner to Advanced for Data Professionals
+- Software Internship
+
+---
+
 ## 📊 Featured Projects
 
 ### CAR SALES INSIGHT DASHBOARD 
@@ -57,6 +64,15 @@ Designed interactive dashboards for region-wise revenue insights and trend analy
 ### 🎓 Education
 **MCA – IGNOU** *(2023 – Present)*  
 **BCA – University of Calicut** *(2019 – 2022)*
+
+---
+
+🌱 Interests
+- Data Visualization & Storytelling
+- Business Intelligence & Dashboards
+- Process Optimization
+- Data-Driven Decision Making
+- Learning new analytics tools & technologies
 
 ---
 
