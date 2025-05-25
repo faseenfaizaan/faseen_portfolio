@@ -5,7 +5,7 @@
 ---
 
 ### 🔹 About Me
-I’m a results-driven Data Analyst with experience in converting data into actionable insights using Power BI, SQL, and Excel. My mission is to help organizations make better decisions through clean dashboards, KPI tracking, and automation.
+I’m a results-driven Data Analyst with experience in converting data into actionable insights using Power BI, SQL, and Excel. My mission is to help organizations make better decisions through clean dashboards, KPI tracking, and automation. I have a proven track record of improving reporting efficiency and delivering clear, business-focused visualizations. Skilled in data modeling, transformation, and storytelling, I thrive on turning complex data into easy-to-understand insights. Passionate about continuous learning, I stay updated with the latest tools and techniques in data analytics. I enjoy collaborating with cross-functional teams to solve problems and drive growth. Ultimately, I aim to leverage data to unlock new opportunities and optimize business performance.
 
 ---
 
