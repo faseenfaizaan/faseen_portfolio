@@ -34,21 +34,22 @@ Oct 2022 – Oct 2024
 ## 📊 Featured Projects
 
 ### CAR SALES INSIGHT DASHBOARD 
-![HR Dashboard](CAR-SALES-DASHBOARD.jpg)
+![CAR Dashboard](CAR-SALES-DASHBOARD.jpg)
+![CAR Dashboard](CAR-SALES-DASHBOARD-2.jpg)
 Analyzed employee attrition, demographics, and performance using Power BI and SQL.  
 [🔗 View on LinkedIn]([https://www.linkedin.com/posts/muhammed-faseen-kayakkal-58aa67220_powerbi-sql-hranalytics-activity-7320416205645787136-lTAV](https://www.linkedin.com/in/muhammed-faseen-kayakkal-58aa67220/details/projects/102106673/multiple-media-viewer/?profileId=ACoAADevkHoBPQJVjAyTl0HxGuXamGSqTSy2f1k&treasuryMediaId=1748153862993))
 
 ---
 
 ### CRM ANALYTICS DASHBOARD
-![HR Dashboard](CRM-DASHBOARD-1.jpg)
+![CRM Dashboard](CRM-DASHBOARD-1.jpg)
 Analyzed employee attrition, demographics, and performance using Power BI and SQL.  
 [🔗 View on LinkedIn](https://www.linkedin.com/posts/muhammed-faseen-kayakkal-58aa67220_powerbi-sql-hranalytics-activity-7320416205645787136-lTAV)
 
 ---
 
 ### BLINKIT RETAIL SALES DASHBOARD
-![CRM Dashboard](Blinkit_Dashboard.jpg)
+![BLINKIT Dashboard](Blinkit_Dashboard.jpg)
 Visualized sales funnel, lead conversion, and revenue using Power BI and DAX.  
 [🔗 View on LinkedIn](https://www.linkedin.com/posts/muhammed-faseen-kayakkal-58aa67220_powerbi-retailanalytics-datavisualization-activity-7328592399415283712-a_4J)
 
