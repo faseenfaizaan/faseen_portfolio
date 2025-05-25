@@ -1,5 +1,3 @@
-# Muhammed Faseen Kayakkal
-
 **📊 Data Analyst | Power BI | SQL | Excel | Data Visualization**
 
 ---
