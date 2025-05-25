@@ -1,7 +1,5 @@
 **📊 Data Analyst | Power BI | SQL | Excel | Data Visualization**
 
----
-
 ### 🔹 About Me
 I’m a results-driven Data Analyst skilled in turning data into actionable insights using Power BI, SQL, and Excel. I focus on creating clean dashboards, tracking KPIs, and automating reporting to help organizations make better decisions. Experienced in data modeling, transformation, and storytelling, I simplify complex data for clear business insights. Passionate about continuous learning, I collaborate with teams to solve problems and drive growth, aiming to unlock new opportunities and optimize performance.
 
