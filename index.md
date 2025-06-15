@@ -8,13 +8,13 @@ I’m a results-driven Data Analyst skilled in turning data into actionable insi
 ### 💼 Experience
 
 **Data Analyst Intern – Rows And Columns, Calicut**  
-Feb 2025 – Present  
+Jan 2025 – Present  
 - Built dashboards using Power BI & SQL  
 - Improved reporting turnaround by 15%  
 - Tracked KPIs and identified trends to support decision-making
 
 **Operations Manager – Al Nas Graphics, Sharjah**  
-Oct 2022 – Oct 2024  
+Oct 2022 – Dec 2024  
 - Managed operations and implemented Excel-based tracking  
 - Achieved a 20% improvement in on-time delivery
 
