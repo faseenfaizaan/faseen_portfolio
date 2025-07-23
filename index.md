@@ -1,26 +1,41 @@
-**📊 Data Analyst | Power BI | SQL | Excel | Data Visualization**
+📊 Data Analyst | Power BI | SQL | Python | Excel | Azure
+🔹 About Me
+I’m a data-driven analyst with 3+ years of experience transforming raw data into actionable insights using Power BI, SQL, Excel, and Python. I specialize in building interactive dashboards, optimizing workflows, and automating reports to improve business decision-making. With hands-on expertise in CRM, ERP, and operational data, I focus on analytics that support sales, service, and supply chain strategies. Passionate about learning, I apply UX/UI principles and collaborate across teams to drive clarity, performance, and measurable impact.
 
-### 🔹 About Me
-I’m a results-driven Data Analyst skilled in turning data into actionable insights using Power BI, SQL, and Excel. I focus on creating clean dashboards, tracking KPIs, and automating reporting to help organizations make better decisions. Experienced in data modeling, transformation, and storytelling, I simplify complex data for clear business insights. Passionate about continuous learning, I collaborate with teams to solve problems and drive growth, aiming to unlock new opportunities and optimize performance.
+💼 Experience
+Business Support Analyst – Al Nas Graphics, Sharjah
+Oct 2022 – Dec 2024
 
----
+Built and automated Power BI dashboards to track KPIs for sales, inventory, and delivery.
 
-### 💼 Experience
+Collaborated cross-functionally to eliminate service bottlenecks and improve reporting accuracy.
 
-**Data Analyst Intern – Rows And Columns, Calicut**  
-Jan 2025 – Present  
-- Built dashboards using Power BI & SQL  
-- Improved reporting turnaround by 15%  
-- Tracked KPIs and identified trends to support decision-making
+Reduced manual reporting by 15% using Excel automation and Azure integration.
 
-**Operations Manager – Al Nas Graphics, Sharjah**  
-Oct 2022 – Dec 2024  
-- Managed operations and implemented Excel-based tracking  
-- Achieved a 20% improvement in on-time delivery
+Data Analyst Intern – Rows And Columns, Calicut
+Jan 2025 – Present
 
+Developed SQL and Power BI dashboards for CRM and customer performance tracking.
+
+Streamlined data workflows and supported insight delivery for CX and sales teams.
+
+Software Intern – Talrop Private Limited, Kerala
+2019 – 2022
+
+Assisted with internal software deployment and data support projects.
+
+🧠 Skills & Tools
+Data Visualization: Power BI, Excel Dashboards, Tableau
+Data Handling: SQL Server, MySQL, Azure Data Studio, Excel Power Query
+Programming: Python (Pandas, NumPy, Matplotlib, Seaborn), DAX, M
+Automation & Deployment: Power BI Service, Power Automate, Azure Synapse
+UI/UX: Figma, Canva, Wireframing, Layout Design
+Collaboration Tools: Jira, Trello, Notion, GitHub, Bitbucket
+Soft Skills: Data Storytelling, Business Acumen, Stakeholder Collaboration, Time Management
 ---
 
 🏅 Certifications
+- PL-300 Certification 
 - Microsoft Power BI Data Analyst Professional
 - SQL: Beginner to Advanced for Data Professionals
 - Software Internship
